@@ -145,7 +145,7 @@ li {
   transition: color 250ms var(--animation-cubic);
 }
 
-.current {
+.current.link {
   position: relative;
 
   padding-top: 32px;
